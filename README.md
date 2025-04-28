@@ -18,6 +18,9 @@ Perbandingan ini membantu pengguna memahami kelebihan dan kekurangan masing-masi
 - Tampilan hasil deteksi tepi secara berdampingan (side-by-side)
 - Histogram dari masing-masing hasil untuk analisis visual
 - Metrik evaluasi (Edge Pixel Count, PSNR, SSIM)
+- Distribusi Intensitas Tepi untuk analisis statistik
+- Grafik Profil Kontras untuk analisis sensitivitas kontras lokal
+- Overlay Tepi pada gambar asli untuk evaluasi visual
 - Penjelasan singkat perbedaan metode secara teori
 - Antarmuka yang bersih, sederhana, dan interaktif
 
